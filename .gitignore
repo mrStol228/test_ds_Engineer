@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+/train.csv
+/hidden_test.csv
+/DS Engineer_Test Task.docx
+.~lock.*
+
+.DS_Store
+cpp/
